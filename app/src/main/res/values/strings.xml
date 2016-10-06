@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadImage</string>
+    <string name="action">action_settings</string>
+    <string name="action_settings">settings</string>
+</resources>
